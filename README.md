@@ -1,3 +1,6 @@
+#CoinGecko API
+This project is made using React, Charka UI and CoinGecko API. A website that utilizes APIs to fetch cryptocurrency prices is a fantastic way to integrate real-time data into your application.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
